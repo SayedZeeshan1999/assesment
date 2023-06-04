@@ -41,11 +41,12 @@
 }
 .btn01{
     display: inline-block;
-    padding: 12px 50px;
+    padding: 20px 80px;
     border-radius: 100px;
     border-style: none;
     color: white;
     background-color: blue;
+    font-size: 20px;
 }
 
 
@@ -55,6 +56,7 @@
     float: right;
     padding-right: 150px;
     padding-top:130px;
+    width: 30%;
     
 }
 .form{
@@ -62,20 +64,42 @@
 }
 
 .btn02{
-    padding: 20px 150px;
+    padding: 10px 100px;
     background-color: #46B314;
     border: none;
     border-radius: 10px;
+    margin-bottom: 20px;
+    
 
 }
 .btn02 a{
     color: white;
+    text-decoration: none;
+    font-size: 25px;
 }
 .main-h3 input{
     width: 300px;
     padding: 20px;
     border-radius: 10px;
+    font-size: 15px;
+    border: 1px solid;
+    border-color: rgb(196, 190, 190);
 }
 
+.form-box{
+    border-color: #b3a6a6;
+    box-shadow: 0px 0px 7px 0px;
+    border-radius: 30px;
+    padding: 20px 20px;
+    border: 1px solid;
+    border-style: none;
+}
 
+.form-head {
+   
+    padding-left: 24px;
+}
 
+.main-h3 h3{
+    margin-bottom: 20px;
+}
